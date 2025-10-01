@@ -1,0 +1,3 @@
+sh,1,won
+ww,1,won
+dd,1,lost
